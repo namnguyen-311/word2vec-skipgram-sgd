@@ -21,3 +21,13 @@ This is a simple Python implementation of **one training step** of the **Skip-Gr
 - Loss Function Optimization
 
 ## Output Example
+Loss: 2.021177
+Gradient: [-0.094201  0.008991  0.084183]
+Updated v_c: [0.10471005 0.19955045 0.29579085]
+
+## Why It Matters
+This project demonstrates core principles of word vector training **from scratch**, without relying on high-level libraries. It’s great for anyone trying to deeply understand how models like Word2Vec learn embeddings.
+
+---
+
+> Built by Nam Nguyen as part of CS224N hands-on learning.
